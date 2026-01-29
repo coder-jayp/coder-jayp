@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Developer</strong><br>
-  Building scalable backends, intelligent systems, geospatial tools & modern web apps • Gandhinagar, Gujarat, India
+  Designing & building production-grade, scalable AI/ML systems, geospatial processing pipelines, and high-performance backends
 </p>
 
 <p align="center">
