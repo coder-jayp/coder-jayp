@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-I'm a software engineer building **production-grade AI/ML systems** and scalable backend infrastructure that drive real-world impact at scale. I design and implement high-performance backend APIs, intelligent applications, and **geospatial AI pipelines**, with deep expertise in large language models (LLMs), geospatial machine learning, model interpretability (SHAP, LIME), and robust end-to-end data workflows. Passionate about converting complex, high-volume data into precise, actionable insights using **Python**, **FastAPI**, **PostGIS**, sentence embeddings, advanced predictive modeling, and modern full-stack technologies (**React**, **Node.js**). Always excited to discuss production ML deployment, explainable AI, geospatial solutions, high-throughput architectures, or potential collaborations — let's connect!
+I'm a software engineer building **production-grade AI/ML systems** and scalable backend infrastructure that drive real-world impact at scale. I design and implement high-performance backend APIs, and **geospatial AI pipelines**, with deep expertise in large language models (LLMs), geospatial machine learning, model interpretability (SHAP, LIME), and robust end-to-end data workflows. Passionate about converting complex, high-volume data into precise, actionable insights using **Python**, **FastAPI**, **PostGIS**, sentence embeddings, advanced predictive modeling, and modern full-stack technologies (**React**, **Node.js**). Always excited to discuss production ML deployment, explainable AI, geospatial solutions, high-throughput architectures, or potential collaborations — let's connect!
 
 ### 🛠️ Tech Stack & Expertise
 
