@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
 
 <p align="center">
   <strong>Software Developer</strong><br>
@@ -21,6 +21,22 @@
 
 ### 🚀 About Me
 I'm a software engineer building **production-grade AI/ML systems** and scalable backend infrastructure that drive real-world impact at scale. I design and implement high-performance backend APIs, and **geospatial AI pipelines**, with deep expertise in large language models (LLMs), geospatial machine learning, model interpretability (SHAP, LIME), and robust end-to-end data workflows. Passionate about converting complex, high-volume data into precise, actionable insights using **Python**, **FastAPI**, **PostGIS**, sentence embeddings, advanced predictive modeling, and modern full-stack technologies (**React**, **Node.js**). Always excited to discuss production ML deployment, explainable AI, geospatial solutions, high-throughput architectures, or potential collaborations — let's connect!
+
+### 🌱 Open Source — PyTorch/RL (TorchRL)
+
+**[Trusted Collaborator](https://github.com/pytorch/rl)** — invited by maintainer [@vmoens](https://github.com/vmoens) to the reviewer team for TorchRL, Meta's official RL library under the PyTorch ecosystem.
+
+📦 **Credited in [TorchRL v0.13.3 release notes](https://github.com/pytorch/rl/releases/tag/v0.13.3)** for [#3888](https://github.com/pytorch/rl/pull/3888) — cited by maintainers as making masking behavior consistent across all loss objectives.
+
+**Highlighted contributions:**
+
+- **[TRL Interoperability Adapters](https://github.com/pytorch/rl/pull/4070)** — Built zero-overhead adapters bridging TorchRL and Hugging Face `trl`, letting teams mix TorchRL's collectors/replay buffers with HF's reward models and trainers without adopting either stack wholesale. Included 17 tests with full E2E coverage and a Sphinx tutorial. Part of the Post-Training RFC (#3948).
+- **[Sequence Sampling Unit](https://github.com/pytorch/rl/pull/4050)** — Designed and implemented fixed-length sequence sampling with three distinct trajectory-boundary policies (`pad`, `stop`, `include_reset`), decoupling sequence-range mechanics from sampling strategy so they can be composed independently.
+- **[Mask-Aware Loss Reduction Migration](https://github.com/pytorch/rl/pull/3888)** — Migrated 14 `LossModule` subclasses (PPO, SAC, DQN, TD3, GAIL, IQL, and more) to a mask-aware reduction path, ensuring padded sequence positions are correctly excluded from loss computation — with byte-identical behavior when no mask is present.
+- **[Version-Safe Replay Buffer Updates](https://github.com/pytorch/rl/pull/4049)** — Implemented optional compare-version semantics for `update_if_present`, preventing stale async writes from clobbering newer state in live buffer slots.
+- Plus 3 additional documentation and bugfix contributions ([#3600](https://github.com/pytorch/rl/pull/3600), [#3779](https://github.com/pytorch/rl/pull/3779), [#4102](https://github.com/pytorch/rl/pull/4102)).
+
+**In review:** [FixedBatchedInference helper (#4110)](https://github.com/pytorch/rl/pull/4110) · [Observability Logger for post-training (#3950)](https://github.com/pytorch/rl/pull/3950) · [Stable component boundary contracts (#4103)](https://github.com/pytorch/rl/pull/4103)
 
 ### 🛠️ Tech Stack & Expertise
 
