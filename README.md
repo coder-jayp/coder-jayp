@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Developer</strong><br>
-  Designing & building production-grade, scalable AI/ML systems, geospatial processing pipelines, and high-performance backends
+  Software Developer building AI/ML systems, LLM applications, and geospatial ML pipelines
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/https://github.com/coder-jayp">
+  <a href="https://github.com/coder-jayp">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -20,15 +20,19 @@
 ---
 
 ### 🚀 About Me
-I'm a software engineer building **production-grade AI/ML systems** and scalable backend infrastructure that drive real-world impact at scale. I design and implement high-performance backend APIs, and **geospatial AI pipelines**, with deep expertise in large language models (LLMs), geospatial machine learning, model interpretability (SHAP, LIME), and robust end-to-end data workflows. Passionate about converting complex, high-volume data into precise, actionable insights using **Python**, **FastAPI**, **PostGIS**, sentence embeddings, advanced predictive modeling, and modern full-stack technologies (**React**, **Node.js**). Always excited to discuss production ML deployment, explainable AI, geospatial solutions, high-throughput architectures, or potential collaborations — let's connect!
+Software developer building **AI/ML systems** and **applied ML pipelines**, with expertise in **machine learning**, **deep learning**, **LLMs**, **geospatial ML**, and **model interpretability** (SHAP, LIME). Experienced across **Python**, **PyTorch**, **FastAPI**, **PostGIS**, and backend deployment (Nginx, Supervisor) — from data pipelines to production ML systems.
+
+Always up for a conversation on ML systems, model deployment, or applied AI — let's connect!
+
+Always up for a conversation on backend architecture, system design, or scalable engineering — let's connect!
 
 ### 🌱 Open Source — PyTorch/RL (TorchRL)
 
-**[Trusted Collaborator](https://github.com/pytorch/rl)** — invited by maintainer [@vmoens](https://github.com/vmoens) to the reviewer team for TorchRL, Meta's official RL library under the PyTorch ecosystem.
+**[Trusted Collaborator](https://github.com/pytorch/rl)**
 
-📦 **Credited in [TorchRL v0.13.3 release notes](https://github.com/pytorch/rl/releases/tag/v0.13.3)** for [#3888](https://github.com/pytorch/rl/pull/3888) — cited by maintainers as making masking behavior consistent across all loss objectives.
+📦 **Credited in [TorchRL v0.13.3 release notes](https://github.com/pytorch/rl/releases/tag/v0.13.3)** for [#3888](https://github.com/pytorch/rl/pull/3888)
 
-**Highlighted contributions:**
+**Contributions:**
 
 - **[TRL Interoperability Adapters](https://github.com/pytorch/rl/pull/4070)** — Built zero-overhead adapters bridging TorchRL and Hugging Face `trl`, letting teams mix TorchRL's collectors/replay buffers with HF's reward models and trainers without adopting either stack wholesale. Included 17 tests with full E2E coverage and a Sphinx tutorial. Part of the Post-Training RFC (#3948).
 - **[Sequence Sampling Unit](https://github.com/pytorch/rl/pull/4050)** — Designed and implemented fixed-length sequence sampling with three distinct trajectory-boundary policies (`pad`, `stop`, `include_reset`), decoupling sequence-range mechanics from sampling strategy so they can be composed independently.
@@ -39,6 +43,16 @@ I'm a software engineer building **production-grade AI/ML systems** and scalable
 **In review:** [FixedBatchedInference helper (#4110)](https://github.com/pytorch/rl/pull/4110) · [Observability Logger for post-training (#3950)](https://github.com/pytorch/rl/pull/3950) · [Stable component boundary contracts (#4103)](https://github.com/pytorch/rl/pull/4103)
 
 ### 🛠️ Tech Stack & Expertise
+
+#### AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-5F9EA0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-black?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
 
 #### Core Languages
 <p align="center">
@@ -59,16 +73,6 @@ I'm a software engineer building **production-grade AI/ML systems** and scalable
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-#### AI/ML & Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-5F9EA0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-1E90FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentence_Transformers-black?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
 #### Frontend & Full-Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -76,14 +80,20 @@ I'm a software engineer building **production-grade AI/ML systems** and scalable
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### Geospatial & Infrastructure Tools
+#### Geospatial Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GeoServer-3C78A8?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+</p>
+
+#### Infrastructure & DevOps
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supervisor-4B8BBE?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
