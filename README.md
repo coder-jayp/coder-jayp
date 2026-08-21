@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>Software Developer</strong><br>
-  Software Developer building AI/ML systems, LLM applications, and geospatial ML pipelines
+  Building AI/ML systems, LLM applications, and geospatial ML pipelines
 </p>
 
 <p align="center">
   <a href="mailto:jayp222001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/jay-prajapati-9350a8305">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/coder-jayp">
@@ -28,10 +28,6 @@ Always up for a conversation on backend architecture, system design, or scalable
 
 ### 🌱 Open Source — PyTorch/RL (TorchRL)
 
-**[Trusted Collaborator](https://github.com/pytorch/rl)**
-
-📦 **Credited in [TorchRL v0.13.3 release notes](https://github.com/pytorch/rl/releases/tag/v0.13.3)** for [#3888](https://github.com/pytorch/rl/pull/3888)
-
 **Contributions:**
 
 - **[TRL Interoperability Adapters](https://github.com/pytorch/rl/pull/4070)** — Built zero-overhead adapters bridging TorchRL and Hugging Face `trl`, letting teams mix TorchRL's collectors/replay buffers with HF's reward models and trainers without adopting either stack wholesale. Included 17 tests with full E2E coverage and a Sphinx tutorial. Part of the Post-Training RFC (#3948).
@@ -39,8 +35,6 @@ Always up for a conversation on backend architecture, system design, or scalable
 - **[Mask-Aware Loss Reduction Migration](https://github.com/pytorch/rl/pull/3888)** — Migrated 14 `LossModule` subclasses (PPO, SAC, DQN, TD3, GAIL, IQL, and more) to a mask-aware reduction path, ensuring padded sequence positions are correctly excluded from loss computation — with byte-identical behavior when no mask is present.
 - **[Version-Safe Replay Buffer Updates](https://github.com/pytorch/rl/pull/4049)** — Implemented optional compare-version semantics for `update_if_present`, preventing stale async writes from clobbering newer state in live buffer slots.
 - Plus 3 additional documentation and bugfix contributions ([#3600](https://github.com/pytorch/rl/pull/3600), [#3779](https://github.com/pytorch/rl/pull/3779), [#4102](https://github.com/pytorch/rl/pull/4102)).
-
-**In review:** [FixedBatchedInference helper (#4110)](https://github.com/pytorch/rl/pull/4110) · [Observability Logger for post-training (#3950)](https://github.com/pytorch/rl/pull/3950) · [Stable component boundary contracts (#4103)](https://github.com/pytorch/rl/pull/4103)
 
 ### 🛠️ Tech Stack & Expertise
 
