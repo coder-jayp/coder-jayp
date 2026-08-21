@@ -24,8 +24,6 @@ Software developer building **AI/ML systems** and **applied ML pipelines**, with
 
 Always up for a conversation on ML systems, model deployment, or applied AI — let's connect!
 
-Always up for a conversation on backend architecture, system design, or scalable engineering — let's connect!
-
 ### 🌱 Open Source — PyTorch/RL (TorchRL)
 
 **Contributions:**
